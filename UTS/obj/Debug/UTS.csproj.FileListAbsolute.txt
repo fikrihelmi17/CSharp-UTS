@@ -1,0 +1,11 @@
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\bin\Debug\UTS.exe.config
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\bin\Debug\UTS.exe
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\bin\Debug\UTS.pdb
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.csprojResolveAssemblyReference.cache
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.Deret_Aritmatika.resources
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.Form1.resources
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.Daftar_Belanjaan.resources
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.Properties.Resources.resources
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.csproj.GenerateResource.Cache
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.exe
+D:\Program\C#\UTS\UTS Visual\UTS\UTS\obj\Debug\UTS.pdb
